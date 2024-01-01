@@ -1,0 +1,10 @@
+{
+  "name": "Projectile Trails",
+  "author": "Syz66",
+  "version": "1.0",
+  "link": "https://github.com/Syz66/ProjectileTrails",
+  "modId": "projectiletrails",
+  "entrypoints": [
+    "me.zircta.projectiletrails.ProjectileTrails"
+  ]
+}
